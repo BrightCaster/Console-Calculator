@@ -1,0 +1,13 @@
+C:\Users\mishka\source\repos\Solbeg_Calc_Consol\Solbeg_Calc_Consol\bin\Debug\netcoreapp3.1\Solbeg_Calc_Consol.exe
+C:\Users\mishka\source\repos\Solbeg_Calc_Consol\Solbeg_Calc_Consol\bin\Debug\netcoreapp3.1\Solbeg_Calc_Consol.deps.json
+C:\Users\mishka\source\repos\Solbeg_Calc_Consol\Solbeg_Calc_Consol\bin\Debug\netcoreapp3.1\Solbeg_Calc_Consol.runtimeconfig.json
+C:\Users\mishka\source\repos\Solbeg_Calc_Consol\Solbeg_Calc_Consol\bin\Debug\netcoreapp3.1\Solbeg_Calc_Consol.runtimeconfig.dev.json
+C:\Users\mishka\source\repos\Solbeg_Calc_Consol\Solbeg_Calc_Consol\bin\Debug\netcoreapp3.1\Solbeg_Calc_Consol.dll
+C:\Users\mishka\source\repos\Solbeg_Calc_Consol\Solbeg_Calc_Consol\bin\Debug\netcoreapp3.1\Solbeg_Calc_Consol.pdb
+C:\Users\mishka\source\repos\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.csproj.AssemblyReference.cache
+C:\Users\mishka\source\repos\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.AssemblyInfoInputs.cache
+C:\Users\mishka\source\repos\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.AssemblyInfo.cs
+C:\Users\mishka\source\repos\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.csproj.CoreCompileInputs.cache
+C:\Users\mishka\source\repos\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.dll
+C:\Users\mishka\source\repos\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.pdb
+C:\Users\mishka\source\repos\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.genruntimeconfig.cache
