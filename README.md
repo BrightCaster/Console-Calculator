@@ -15,3 +15,4 @@ According to the choice of the number and pressing Enter, the action will occur
 
 ![F5gmtD41bk8](https://user-images.githubusercontent.com/64326994/131702172-5ef99037-30e0-4061-9a8d-403771f8e212.jpg)
 
+![a5YL49RN8Ig](https://user-images.githubusercontent.com/64326994/131702437-35e4f928-9056-4c17-bfb8-6ae6d484ff45.jpg)
