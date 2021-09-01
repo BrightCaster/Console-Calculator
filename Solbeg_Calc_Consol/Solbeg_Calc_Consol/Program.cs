@@ -88,37 +88,46 @@ namespace Solbeg_Calc_Consol
                                 Console.WriteLine("Если хотите выбрать другой тип ввода, введите Back");
                                 Console.WriteLine("Введите первое число:");
                                 string arg1 = Console.ReadLine();
+                                if (arg1 == "Back") break;
                                 if (double.TryParse(arg1, out final))
                                 {
-                                    if (arg1 == "Back") break;
+                                    
                                     Console.WriteLine("Введите второе число:");
                                     string arg2 = Console.ReadLine();
+                                    if (arg2 == "Back") break;
                                     if (double.TryParse(arg2, out final2))
                                     {
-                                        if (arg2 == "Back") break;
+                                        
                                         Console.WriteLine("Введите оператор:");
-                                        char operator1 = Convert.ToChar(Console.ReadLine());
-                                        switch (operator1)
+                                        string operator1 = Console.ReadLine();
+                                        char operator2;
+                                        if (char.TryParse(operator1, out operator2))
                                         {
-                                            case '+':
-                                                arg1 = (Convert.ToDouble(arg1) + Convert.ToDouble(arg2)).ToString();
-                                                break;
-                                            case '-':
-                                                arg1 = (Convert.ToDouble(arg1) - Convert.ToDouble(arg2)).ToString();
-                                                break;
-                                            case '*':
-                                                arg1 = (Convert.ToDouble(arg1) * Convert.ToDouble(arg2)).ToString();
-                                                break;
-                                            case '/':
-                                                arg1 = (Convert.ToDouble(arg1) / Convert.ToDouble(arg2)).ToString();
-                                                break;
-                                            default:
-                                                Console.WriteLine("Неверный знак оператора");
-                                                break;
+                                            switch (operator2)
+                                            {
+                                                case '+':
+                                                    arg1 = (Convert.ToDouble(arg1) + Convert.ToDouble(arg2)).ToString();
+                                                    break;
+                                                case '-':
+                                                    arg1 = (Convert.ToDouble(arg1) - Convert.ToDouble(arg2)).ToString();
+                                                    break;
+                                                case '*':
+                                                    arg1 = (Convert.ToDouble(arg1) * Convert.ToDouble(arg2)).ToString();
+                                                    break;
+                                                case '/':
+                                                    arg1 = (Convert.ToDouble(arg1) / Convert.ToDouble(arg2)).ToString();
+                                                    break;
+                                                default:
+                                                    Console.WriteLine("Неверный знак оператора");
+                                                    break;
+                                            }
+                                            Console.WriteLine($"Ответ: {arg1}");
                                         }
-                                        Console.WriteLine($"Ответ: {arg1}");
+                                        else Console.WriteLine("Вы ввели неверный формат оператора");
                                     }
+                                    else Console.WriteLine("Вы ввели неверный формат");
                                 }
+                                else Console.WriteLine("Вы ввели неверный формат");
                             }
                             break;
                         case 3:
