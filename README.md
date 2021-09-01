@@ -17,3 +17,6 @@ According to the choice of the number and pressing Enter, the action will occur
 
 When you enter the word "Back", we are returned to the input selection menu
 
+![DKiFkSFSrFA](https://user-images.githubusercontent.com/64326994/131703122-20459cca-67a3-47f2-b6e9-ea89a713754f.jpg)
+
+When you click "Выход", the program terminates its work.
