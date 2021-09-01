@@ -31,9 +31,10 @@ namespace Solbeg_Calc_Consol
                                 Console.WriteLine("Введите выражение в виде: 2 числа и между ними оператор");
                                 string arg = Console.ReadLine();
 
-
+                                Again:
                                 if (arg == "Back") break;
                                 char[] operators = { '+', '-', '*', '/' };
+
                                 int indexOperator = arg.IndexOfAny(operators);
                                 if (indexOperator < 0)
                                 {
@@ -75,6 +76,17 @@ namespace Solbeg_Calc_Consol
                                                 break;
                                         }
                                         Console.WriteLine($"Ответ: {final}");
+                                        Console.WriteLine("Хотите продолжить с этим числом? y/n");
+                                        result = Console.ReadLine();
+                                        if (result == "y")
+                                        {
+                                            arg = final.ToString();
+                                            Console.WriteLine("Введите оператор и число для продолжения");
+                                            arg += Console.ReadLine();
+                                            result = null;
+                                            goto Again;
+                                        }
+                                        else if (result == "n") continue;
                                     }
                                     else Console.WriteLine("Вы ввели неверный формат");
                                 }
@@ -91,7 +103,7 @@ namespace Solbeg_Calc_Consol
                                 if (arg1 == "Back") break;
                                 if (double.TryParse(arg1, out final))
                                 {
-                                    
+                                    Again:
                                     Console.WriteLine("Введите второе число:");
                                     string arg2 = Console.ReadLine();
                                     if (arg2 == "Back") break;
@@ -122,6 +134,13 @@ namespace Solbeg_Calc_Consol
                                                     break;
                                             }
                                             Console.WriteLine($"Ответ: {arg1}");
+                                            Console.WriteLine("Хотите продолжить с этим числом? y/n");
+                                            string result = Console.ReadLine();
+                                            if (result == "y")
+                                            {
+                                                goto Again;
+                                            }
+                                            else if (result == "n") continue;
                                         }
                                         else Console.WriteLine("Вы ввели неверный формат оператора");
                                     }
