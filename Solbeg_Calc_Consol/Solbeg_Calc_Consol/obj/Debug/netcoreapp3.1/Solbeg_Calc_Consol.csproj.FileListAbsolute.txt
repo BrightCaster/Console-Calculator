@@ -24,3 +24,16 @@ C:\Users\mishka\Desktop\Новая папка\Console-Calculator-main\Console-Ca
 C:\Users\mishka\Desktop\Новая папка\Console-Calculator-main\Console-Calculator-main\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.dll
 C:\Users\mishka\Desktop\Новая папка\Console-Calculator-main\Console-Calculator-main\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.pdb
 C:\Users\mishka\Desktop\Новая папка\Console-Calculator-main\Console-Calculator-main\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.genruntimeconfig.cache
+C:\Users\mishka\Documents\GitHub\Console-Calculator\Solbeg_Calc_Consol\Solbeg_Calc_Consol\bin\Debug\netcoreapp3.1\Solbeg_Calc_Consol.exe
+C:\Users\mishka\Documents\GitHub\Console-Calculator\Solbeg_Calc_Consol\Solbeg_Calc_Consol\bin\Debug\netcoreapp3.1\Solbeg_Calc_Consol.deps.json
+C:\Users\mishka\Documents\GitHub\Console-Calculator\Solbeg_Calc_Consol\Solbeg_Calc_Consol\bin\Debug\netcoreapp3.1\Solbeg_Calc_Consol.runtimeconfig.json
+C:\Users\mishka\Documents\GitHub\Console-Calculator\Solbeg_Calc_Consol\Solbeg_Calc_Consol\bin\Debug\netcoreapp3.1\Solbeg_Calc_Consol.runtimeconfig.dev.json
+C:\Users\mishka\Documents\GitHub\Console-Calculator\Solbeg_Calc_Consol\Solbeg_Calc_Consol\bin\Debug\netcoreapp3.1\Solbeg_Calc_Consol.dll
+C:\Users\mishka\Documents\GitHub\Console-Calculator\Solbeg_Calc_Consol\Solbeg_Calc_Consol\bin\Debug\netcoreapp3.1\Solbeg_Calc_Consol.pdb
+C:\Users\mishka\Documents\GitHub\Console-Calculator\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.csproj.AssemblyReference.cache
+C:\Users\mishka\Documents\GitHub\Console-Calculator\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.AssemblyInfoInputs.cache
+C:\Users\mishka\Documents\GitHub\Console-Calculator\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.AssemblyInfo.cs
+C:\Users\mishka\Documents\GitHub\Console-Calculator\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.csproj.CoreCompileInputs.cache
+C:\Users\mishka\Documents\GitHub\Console-Calculator\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.dll
+C:\Users\mishka\Documents\GitHub\Console-Calculator\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.pdb
+C:\Users\mishka\Documents\GitHub\Console-Calculator\Solbeg_Calc_Consol\Solbeg_Calc_Consol\obj\Debug\netcoreapp3.1\Solbeg_Calc_Consol.genruntimeconfig.cache

@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mishka\\Desktop\\Новая папка\\Console-Calculator-main\\Console-Calculator-main\\Solbeg_Calc_Consol\\Solbeg_Calc_Consol\\Solbeg_Calc_Consol.csproj",
+      "projectUniqueName": "C:\\Users\\mishka\\Documents\\GitHub\\Console-Calculator\\Solbeg_Calc_Consol\\Solbeg_Calc_Consol\\Solbeg_Calc_Consol.csproj",
       "projectName": "Solbeg_Calc_Consol",
-      "projectPath": "C:\\Users\\mishka\\Desktop\\Новая папка\\Console-Calculator-main\\Console-Calculator-main\\Solbeg_Calc_Consol\\Solbeg_Calc_Consol\\Solbeg_Calc_Consol.csproj",
+      "projectPath": "C:\\Users\\mishka\\Documents\\GitHub\\Console-Calculator\\Solbeg_Calc_Consol\\Solbeg_Calc_Consol\\Solbeg_Calc_Consol.csproj",
       "packagesPath": "C:\\Users\\mishka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mishka\\Desktop\\Новая папка\\Console-Calculator-main\\Console-Calculator-main\\Solbeg_Calc_Consol\\Solbeg_Calc_Consol\\obj\\",
+      "outputPath": "C:\\Users\\mishka\\Documents\\GitHub\\Console-Calculator\\Solbeg_Calc_Consol\\Solbeg_Calc_Consol\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
